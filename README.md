@@ -1,1 +1,2 @@
-# Simple weather app using React and the OpenWeatherMap API
+# Weather App
+Simple weather app using React and the OpenWeatherMap API
