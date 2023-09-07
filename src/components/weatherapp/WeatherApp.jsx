@@ -100,7 +100,7 @@ function WeatherApp() {
           <img src={wind_icon} alt=''/>
           <div className="data">
             <div className="wind-rate">- km/h</div>
-            <div className="text">Humidity</div>
+            <div className="text">Wind</div>
           </div>
         </div>
       </div>
